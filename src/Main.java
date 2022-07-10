@@ -19,7 +19,6 @@ public class Main {
 
         harry.compareHogwarts(draco);
         harry.compareGriffindor(ron);
-
     }
     private static int generate() {
         return RANDOM.nextInt(100);
