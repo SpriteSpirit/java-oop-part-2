@@ -16,10 +16,8 @@ public class Main {
         System.out.println(draco);
         System.out.println(sedric);
 
-
         harry.compareHogwarts(draco);
         harry.compareGriffindor(ron);
-
     }
     private static int generate() {
         return RANDOM.nextInt(100);
